@@ -1,0 +1,26 @@
+[
+    {
+    "task_id" : "01",
+    "task_name": "examination date",
+    "task_details" : "Exam will start from next week.",
+    "starting_date" : "29th december, 2022",
+    "ending_date" : "7th january, 2023",
+    "thumbnail" : "https://i.ibb.co/XyfMgc4/2.jpg"
+    },
+    {
+    "task_id" : "02",
+    "task_name": "date with fat",
+    "task_details" : "I have a date with my favourite one.",
+    "starting_date" : "29th december, 2022",
+    "ending_date" : "29th december, 2022",
+    "thumbnail" : "https://i.ibb.co/XyfMgc4/2.jpg"
+    },
+    {
+    "task_id" : "03",
+    "task_name": "examination date",
+    "task_details" : "Exam will start from next week.",
+    "starting_date" : "29th december, 2022",
+    "ending_date" : "7th january, 2023",
+    "thumbnail" : "https://i.ibb.co/XyfMgc4/2.jpg"
+    }
+]
